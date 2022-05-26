@@ -15,7 +15,7 @@
     <img src="images/cyclin-logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Hello</h3>
+<h3 align="center">Cyclin user interface</h3>
 
   <p align="center">
     Chainlink Hackathon 2022
