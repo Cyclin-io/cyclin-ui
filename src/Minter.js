@@ -81,25 +81,25 @@ function addWalletListener() {
       <br></br>
       <h1 id="title">NFT Minter</h1>
       <p>
-        Simply add your asset's link, name, and description, then press "Mint."
+        Follow the step below, you can mint your NFT.
       </p>
       <form>
-        <h2> Link to asset: </h2>
+        <h2> Input link: </h2>
         <input
           type="text"
-          placeholder="e.g. https://gateway.pinata.cloud/ipfs/<hash>"
+          placeholder="https://gateway.pinata.cloud/ipfs/..."
           onChange={(event) => setURL(event.target.value)}
         />
-        <h2>🤔 Name: </h2>
+        <h2> Name your NFT: </h2>
         <input
           type="text"
-          placeholder="e.g. My first NFT!"
+          placeholder="e.g. My bike"
           onChange={(event) => setName(event.target.value)}
         />
-        <h2>✍️ Description: </h2>
+        <h2> Describe your NFT: </h2>
         <input
           type="text"
-          placeholder="e.g. Even cooler than cryptokitties ;)"
+          placeholder="e.g. Wow so cool!"
           onChange={(event) => setDescription(event.target.value)}
         />
       </form>
