@@ -133,7 +133,7 @@ npm run start
 - [ ] Navbar for the website
 - [ ] Developing react components 
 - [ ] Setting router
-- [ ] Testing to mint NFT
+- [ ] Testing to mint NFT and market place
 
 See the [open issues](https://github.com/Cyclin-io/cyclin-ui/issues) for a full list of proposed features (and known issues).
 
