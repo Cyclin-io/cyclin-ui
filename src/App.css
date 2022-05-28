@@ -29,7 +29,7 @@
   left: 0;
   right: 0;
 
-   background-image: url("C:\Users\ThuyHOANG\code\nft-minter-tutorial\minter-starter-files\src\images\background_photo_3.jpg");
+   background-image: url("./images/background_photo_3.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;

@@ -134,7 +134,7 @@ export const connectWallet = async () => {
             });
         return {
             success: true,
-            status: "✅ Check out your transaction on Etherscan: https://ropsten.etherscan.io/tx/" + txHash
+            status: "✅ Check out your transaction on Etherscan: https://kovan.etherscan.io/tx/" + txHash
         }
     } catch (error) {
         return {
